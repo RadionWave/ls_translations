@@ -22,7 +22,7 @@
         <Key ID="STR_ls_equipment_squadShield_displayName">
             <English>Squad Shield</English>
         </Key>
-        <Key ID="STR_ls_equipment_squadShield_packed_description">
+        <Key ID="STR_ls_equipment_squadShield_packed_descriptionShort">
             <English>A deployable squad shield</English>
         </Key>
     </Package>
