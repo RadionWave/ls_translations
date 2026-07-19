@@ -16,6 +16,9 @@
             <French>187e Légion</French>
             <Polish>187-my Legion</Polish>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_atrtDriver">
+            <English>AT-RT Driver</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_212th">
             <English>212th Attack Batallion</English>
             <French>212e bataillon d'assaut</French>
