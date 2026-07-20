@@ -178,6 +178,9 @@
             <English>Vehicles</English>
             <French>Véhicules</French>
         </Key>
+        <Key ID="STR_ls_common_edsubcat_walkers">
+            <English>Walkers</English>
+        </Key>
         <Key ID="STR_ls_common_edsubcat_weapons">
             <English>Weapons</English>
             <French>Armes</French>
