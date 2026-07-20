@@ -3,27 +3,35 @@
     <Package name="equipment">
         <Key ID="STR_ls_equipment_createEquipmentCategory_name">
             <English>Create Arsenal Category</English>
+            <French>Crée une catégorie d'arsenal</French>
         </Key>
         <Key ID="STR_ls_equipment_createEquipmentCategory_tooltip">
             <English>If enabled, creates a custom category in the ACE Arsenal for special equipment items.</English>
+            <French>Si activé, cela crée une catégorie personnalisée dans l'arsenal ACE pour les équipements spéciaux</French>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_name">
             <English>Rangefinder Overlay - Enabled</English>
+            <French>Affichage du télémètre - activé</French>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_tooltip">
             <English>If enabled, nvgs can configure a display to show interactive elements when turning on the nvgs.</English>
+            <French>Si activées, les LVN peuvent configurer un affichage des éléments interactifs en les activant.</French>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_name">
             <English>Squad Shield - Health</English>
+            <French>Bouclier d'escouade - Vie</French>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_tooltip">
             <English>The max health of the squad shield's shield.</English>
+            <French>La vie maximale du bouclier d'escouade</French>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_displayName">
             <English>Squad Shield</English>
+            <French>Bouclier d'escouade</French>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_packed_descriptionShort">
             <English>A deployable squad shield</English>
+            <French>Un bouclier d'escouade déployable</French>
         </Key>
     </Package>
 </Project>
