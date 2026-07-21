@@ -248,8 +248,14 @@
             <French>Châssis de droïde B1 (Marine)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_marksman">
-            <English>B1 Battle Droid (Marksman)</English>
-            <French>Droïde de combat B1 (Tireur de précision)</French>
+            <English>B1 Battle Droid (Sniper)</English>
+            <French>Droïde de combat B1 (tireur d'élite)</French>
+            <Polish>Droid Bojowy B1 (Snajper)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pilot">
+            <English>OOM-Series Pilot Droid</English>
+            <French>Droïde pilote série-OOM</French>
+            <Polish>Droid Pilot Serii OOM</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_backpack">
             <English>B1 Comlink Booster (Pilot)</English>
@@ -265,12 +271,6 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_uniform">
             <English>B1 Droid Chassis (Pilot)</English>
-            <French>Châssis de droïde B1 (Pilote)</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_roi">
-            <English>OOM-Series Pilot Droid</English>
-            <French>Droïde pilote série-OOM</French>
-            <Polish>Droid Pilot Serii OOM</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur">
             <English>B1 Battle Droid (Saboteur)</English>
@@ -324,12 +324,6 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_geonosis_uniform">
             <English>B1 Droid Chassis (Security, Geonosis)</English>
-            <French>Châssis de droïde B1 (Sécurité, Geonosis)</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_security_helmet">
-            <English>OOM-Series Security Droid Head</English>
-            <French>Tête de droïde de sécurité série-OOM</French>
-            <Polish>Głowa Droida Ochrony Serii OOM</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_uniform">
             <English>B1 Droid Chassis (Security)</English>
